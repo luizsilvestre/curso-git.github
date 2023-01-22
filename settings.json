@@ -1,0 +1,21 @@
+{"editor.tabSize": 2,
+
+"editor.formatOnSave":false,
+"editor.codeActionsOnSave": {"source.fixAll.eslint":true},
+"eslint.validate":[ "javascript" ],
+"eslint.format.enable": true,
+"[javascriptreact]": {"editor.defaultFormatter": "dbaeumer.vscode-eslint"},
+
+"editor.bracketPairColorization.enabled": ,
+"editor.guides.bracketPairs": "active",
+"workbench.colorTheme": "dracula",
+"workbench.iconTheme": "material-icon-theme",
+"workbench.startupEditor": "none",
+
+"editor.fontFamily":"Cascadia Code",
+"editor.fontLigatures": true,
+"editor.tabSize":4
+
+
+
+}
